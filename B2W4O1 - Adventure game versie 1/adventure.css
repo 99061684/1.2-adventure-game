@@ -1,0 +1,41 @@
+body {
+    background-color: grey;
+}
+
+#game-container {
+    width: 1000px;
+    height: 500px;
+    margin: 0 auto;
+    background-color: white;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 1000px;
+}
+
+button {
+    background-color: red;
+}
+
+#button1 {
+    position: relative; 
+    top: 440px; 
+    /* left: 400px;  */
+
+    padding: 5px 100px 5px 100px; 
+}
+
+#button2 {
+    position: relative; 
+    top: 440px; 
+    /* left: 400px;  */
+
+    padding: 5px 100px 5px 100px; 
+}
+
+#button3 {
+    position: relative; 
+    top: 440px; 
+    /* left: 400px;  */
+
+    padding: 5px 100px 5px 100px; 
+}
